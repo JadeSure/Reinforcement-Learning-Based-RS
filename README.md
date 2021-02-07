@@ -1,4 +1,4 @@
-# Reinforcement-Learning-Based-RS
+# Reinforcement Learning Based RS by biclustering
 
 This is the code reproduction for a paper: Reinforcement Learning based RS using Biclustering Technique. [paper link](https://arxiv.org/abs/1801.05532) It use a few techniques including data processing(pandas, numpy), biclustering algorithm (in the matlab), Q-learning (SARSA needs a little code change) and also data visulization with turtle and grid.  
 **Results Demo** click picture to see video in Youtube (ps: please ignore this picture, DQN which is not related to this project)
